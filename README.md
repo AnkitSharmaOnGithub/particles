@@ -1,5 +1,5 @@
 # particles
 
-## A small universe built using particle.js.
+### A small universe built using particle.js.
 
-## Link :- https://ankitsharmaongithub.github.io/particles/
+### Link :- https://ankitsharmaongithub.github.io/particles/
